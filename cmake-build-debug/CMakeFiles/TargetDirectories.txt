@@ -1,0 +1,12 @@
+/home/eugene/CLionProjects/cpp/cmake-build-debug/CMakeFiles/install/local.dir
+/home/eugene/CLionProjects/cpp/cmake-build-debug/CMakeFiles/package.dir
+/home/eugene/CLionProjects/cpp/cmake-build-debug/CMakeFiles/test.dir
+/home/eugene/CLionProjects/cpp/cmake-build-debug/CMakeFiles/helloworld.dir
+/home/eugene/CLionProjects/cpp/cmake-build-debug/CMakeFiles/test_version.dir
+/home/eugene/CLionProjects/cpp/cmake-build-debug/CMakeFiles/package_source.dir
+/home/eugene/CLionProjects/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eugene/CLionProjects/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eugene/CLionProjects/cpp/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/eugene/CLionProjects/cpp/cmake-build-debug/CMakeFiles/helloworld_cli.dir
+/home/eugene/CLionProjects/cpp/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/eugene/CLionProjects/cpp/cmake-build-debug/CMakeFiles/install.dir

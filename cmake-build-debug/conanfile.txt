@@ -1,0 +1,9 @@
+[generators]
+cmake
+
+[requires]
+spdlog/1.8.0
+
+[options]
+
+[imports]
